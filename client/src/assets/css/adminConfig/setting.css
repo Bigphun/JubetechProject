@@ -1,0 +1,23 @@
+.user-form-container {
+    padding: 10px;
+}
+
+.user-form-container .breadcrumb {
+    padding-top: 15px;
+}
+
+.role-form-container {
+    padding: 10px;
+}
+
+.role-form-container .breadcrumb {
+    padding-top: 15px;
+} 
+
+.promotion-from-container {
+    padding: 10px;
+}
+
+.promotion-from-container .breadcrumb {
+    padding-top: 15px;
+}

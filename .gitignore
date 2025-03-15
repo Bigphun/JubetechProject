@@ -1,0 +1,13 @@
+# Server
+server/.env
+server/node_modules
+server/package-lock.json
+# Sensitive Data
+server/storages
+server/storages/firebase
+server/storages/firebase/jubetech-admin-sdk.json
+
+# Client
+client/.env
+client/node_modules
+client/package-lock.json
